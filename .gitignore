@@ -1,4 +1,1 @@
-build
-*.pyc
-.ropeproject
-tmp
+test_package/build
